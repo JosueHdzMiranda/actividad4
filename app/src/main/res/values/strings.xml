@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica4</string>
+    <string name="btn">saludar</string>
+    <string name="nombre">Ingresa Tu Nombre</string>
+    <string name="name">ingresa Tu nombre</string>
+    <string name="nombre1">Ingresa Tu nombre</string>
+    <string name="lbnombre" />
+</resources>
